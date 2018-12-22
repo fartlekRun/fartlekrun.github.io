@@ -17,4 +17,5 @@ Plank is one of the body weight exercise, that will never go out from the fashio
 8. **No special equipment required** – there is no need to go to the gym or to have a trainer to do this move. Just get down on a yoga mat and hold a correct posture. Moreover, the plank is a time efficient exercise, as it is enough to hold it four times one minute if you are an advanced user. 
 9. **Safe exercise** – planks are not a dangerous workout, as you working only with your body mass. If it is done correctly, only your muscles hold you in a straight line.
 10. **Simple exercise** – all that you need to do is to hold a straight line from your heals to the head. Sound simple, ah? But there are some tricks, and you have to master them, to get all the benefits from the plank.
+
 As you can see it’s hard to beat the plank. Find a variation that works best for you, devote five to ten minutes every day and get rock hard ABS.
