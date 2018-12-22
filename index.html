@@ -7,20 +7,9 @@ title: Home
 
 <section class="post-list">
   <div class="container">
-    {% for post in site.posts %}
-      {% unless post.next %}
-
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-
-        {% endif %}
-      {% endunless %}
       <article class="post-item">
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
-    {% endfor %}
   </div>
 
 </section>
