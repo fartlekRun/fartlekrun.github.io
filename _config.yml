@@ -14,7 +14,7 @@ disqus_shortname  : ""
 postshare_enabled : false
 
 # Build settings
-permalink   : /title/
+permalink   : /:title/
 markdown    : kramdown
 highlighter : rouge
 
