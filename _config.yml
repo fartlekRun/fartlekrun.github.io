@@ -16,8 +16,8 @@ permalink   : /title/
 markdown    : kramdown
 highlighter : rouge
 
-source      : ./
-destination : ./_site
+source      : /
+destination : /_site
 
 # Sass configuration
 sass:
