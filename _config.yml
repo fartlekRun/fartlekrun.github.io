@@ -1,4 +1,5 @@
-remote_theme: heiswayi / thinkspace
+remote_theme: chrisbobbe/jekyll-theme-prologue
+#remote_theme: heiswayi / thinkspace
 #remote_theme: LeNPaul/Lagrange
 #remote_theme: broccolini/swiss
 title: fartlek.run
