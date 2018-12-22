@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "I hope you like it!"
 permalink: /breakfast/
 
 ---
