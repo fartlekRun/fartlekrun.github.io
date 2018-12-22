@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: mmistakes / minimal-mistakes
 title: fartlek.run
 description: change description
+
