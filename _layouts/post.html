@@ -13,14 +13,3 @@ layout: default
 </article>
 
 {% include comments.html %}
-
-<section class="post-list">
-    <div class="container">
-      {% for post in site.posts %}
-        <article class="post-item">
-          <div class="article-title"><h4 align="center"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h4></div>
-        </article>
-      {% endfor %}
-    </div>
-  
-  </section>
